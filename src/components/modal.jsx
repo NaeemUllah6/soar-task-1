@@ -7,7 +7,7 @@ const ModalWithState = () => {
   const carousel = [
     {
       avatar: avatar1,
-      avatarName: 'Livia Bator',
+      avatarName: 'Jamshaid Haneef',
       avatarDes: 'CEO',
     },
     {
