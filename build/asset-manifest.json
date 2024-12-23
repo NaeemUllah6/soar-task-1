@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3410a59f.css",
+    "main.js": "/static/js/main.9ada4b24.js",
+    "static/media/user_profile.svg": "/static/media/user_profile.4e8c11640ddc2b57ad0d265eac9a3252.svg",
+    "static/media/avatar3.svg": "/static/media/avatar3.f7e7fba12e17f593636c9cb3e05d28f3.svg",
+    "static/media/avatar2.svg": "/static/media/avatar2.1cf7464dc43819938d668ef6c6892657.svg",
+    "static/media/white-card.svg": "/static/media/white-card.1ba43c84c5020304e231f782eff856cf.svg",
+    "static/media/black-card.svg": "/static/media/black-card.4c6737abca950cf59624c4b9d556c282.svg",
+    "static/media/avatar1.png": "/static/media/avatar1.222a6bd5c46f678aaada.png",
+    "static/media/main_logo.svg": "/static/media/main_logo.65a31a7e0102df068d907a6bbe1a07d1.svg",
+    "static/media/header-settings.svg": "/static/media/header-settings.bc0ef0b9ea9bf23ede362b09716aa089.svg",
+    "static/media/services.svg": "/static/media/services.35c649905ad2ef7084bd68e3ee4427f6.svg",
+    "static/media/loans.svg": "/static/media/loans.19f3bf50be5592017445f1ead9bb0c07.svg",
+    "static/media/eclips.svg": "/static/media/eclips.26e1af743341ca6ad0ce8095400bd1fe.svg",
+    "static/media/investments.svg": "/static/media/investments.9312341a865081007ef5028ad1c87279.svg",
+    "static/media/transactions.svg": "/static/media/transactions.b2e4d12175b6cbcfc318674315e2781b.svg",
+    "static/media/priviliages.svg": "/static/media/priviliages.33cd953eb8c3dc2c2b3b5f6de12ee937.svg",
+    "static/media/eclips2.svg": "/static/media/eclips2.14299ba73ae45c47bdd63697a156312c.svg",
+    "static/media/notification.svg": "/static/media/notification.b947b1dd2bda40e8840e5aebfa708690.svg",
+    "static/media/accounts.svg": "/static/media/accounts.09a217f3e9212cd4481f4ecb90570be2.svg",
+    "static/media/cards.svg": "/static/media/cards.924b59a0f5553c320ce798c83d24457a.svg",
+    "static/media/settings.svg": "/static/media/settings.cafc745b20f9028be652cc52a6b36751.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.637dee14287743b964ca02b89897a75c.svg",
+    "static/media/sendmssg.svg": "/static/media/sendmssg.15a0211937c86c455c2bd347868d7557.svg",
+    "static/media/search.svg": "/static/media/search.cd7354c570b752133f6ec9d0aa35a022.svg",
+    "index.html": "/index.html",
+    "static/media/showMore.svg": "/static/media/showMore.bf0485421fbea367023b29d84f92d4d4.svg",
+    "main.3410a59f.css.map": "/static/css/main.3410a59f.css.map",
+    "main.9ada4b24.js.map": "/static/js/main.9ada4b24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3410a59f.css",
+    "static/js/main.9ada4b24.js"
+  ]
+}
